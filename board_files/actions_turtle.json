@@ -1,0 +1,25 @@
+{
+  "sequences": [
+    {
+      "actions": "MMRMMMRMRMR"
+    },
+    {
+      "actions": "RMMRMRRRMM"
+    },
+    {
+      "actions": "RMMRMRRRMMRMM"
+    },
+    {
+      "actions": "MMRRRMMR"
+    },
+    {
+      "actions": "MMR"
+    },
+    {
+      "actions": "RRMMRRRM"
+    },
+    {
+      "actions": ""
+    }
+  ]
+}

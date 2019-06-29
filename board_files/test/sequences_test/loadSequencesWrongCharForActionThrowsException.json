@@ -1,0 +1,13 @@
+{
+  "sequences": [
+    {
+      "actions": "MMR"
+    },
+    {
+      "actions": "WRR"
+    },
+    {
+      "actions": "L"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+	"board_size": {
+		"rows": 4,
+		"columns": 5
+	},
+	"turtle": {
+		"position": {
+			"row": 1,
+			"column": 0
+		},
+		"orientation": "N"
+	},
+	"board_elements": {
+		"exit": {
+			"position": {
+				"row": 2,
+				"column": 4
+			}
+		},
+		"mines": [{
+			"position": {
+				"row": 3,
+				"column": 1
+			}}, {
+			"position": {
+				"row": 0,
+				"column": 2
+			}}
+		]
+	}
+}
